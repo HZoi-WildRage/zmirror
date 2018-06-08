@@ -235,7 +235,7 @@ url_custom_redirect_list = {
     '/wiki': '/extdomains/zh.wikipedia.org/',
 
     # 这是gmail
-    '/gmail': '/extdomains/mail.google.com/mail/u/0/h/girbaeneuj90/',
+    '/gmail': '/extdomains/mail.google.com',
 
     # 这是google学术
     "/scholar": '/extdomains/scholar.google.com/?hl=zh-CN',
