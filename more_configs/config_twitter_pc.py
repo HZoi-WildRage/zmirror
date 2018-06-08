@@ -20,7 +20,8 @@
 #
 # ############## Local Domain Settings ##############
 my_host_name = '127.0.0.1'
-my_host_scheme = 'http://'
+my_host_scheme = 'https://'
+verbose_level = 2
 
 # ############## Target Domain Settings ##############
 target_domain = 'twitter.com'
